@@ -5,7 +5,7 @@ file = open("my_notes.txt", "w")
 # Notas personales
 file.write("Nombre: Jared.\n")
 file.write("Pais: Ecuador.\n")
-file.write("Ciudad: Arenillas\n")
+file.write("Ciudad: Arenillas.")
 
 # Cerramos el archivo
 file.close()
